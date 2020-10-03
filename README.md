@@ -29,7 +29,9 @@ They will enter their search criteria such as state or country to narrow the res
 Our table works as intended; however, the data is limited to sightings in January. I recommend adding additional sightings. To make the page more professional looking, I suggest the following edits to the data:
 
 •	Capitalize City, State and Country Names
-•	Capitalize Shape Descriptions
+
+•	Capitalize Shape 
+
 •	Standardize Duration Format
 
 As more data becomes available, the table could also be filtered using drop-down menus for user input. 
